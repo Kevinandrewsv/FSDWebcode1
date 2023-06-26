@@ -1,0 +1,29 @@
+h1{
+    
+    color:  rgb(159, 96, 154);
+    text-align: center;
+    font-family :system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+img{
+    height: 450px;
+    width: 450px;
+    padding: 60px;
+   
+}
+
+#details {
+    color:rgb(0, 0, 0);
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding : 100px;
+    font-variant:small-caps;
+    height: 450px;
+    width: 1920px;
+    background-image: url(https://img.freepik.com/free-photo/background_53876-42300.jpg?w=360)
+}
+
+#main{
+    background-image: url(https://marketplace.canva.com/EAFTQEWI-Ko/1/0/1600w/canhttps://cdn.wallpapersafari.com/76/86/nZg6Lp.jpgva-black-sky-galaxy-stars-desktop-wallpaper-iWMZ0xN6KXs.jpg);
+
+}
